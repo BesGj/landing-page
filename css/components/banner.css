@@ -1,0 +1,25 @@
+.banner {
+
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+
+}
+
+.container {
+  margin: auto;
+  width: 900px;
+}
+
+.button {
+  color: white;
+  background-color: #7bed9f;
+  padding: 15px 25px;
+  border-radius: 14px;
+
+}
+
+.container p {
+  margin-bottom: 40px;
+}
